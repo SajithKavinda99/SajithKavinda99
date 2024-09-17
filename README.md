@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajith Kavinda</h1>
-<h3 align="center">A passionate Java developer from Sri Lanka</h3>
+<h3 align="center">A passionate Data Analyst in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajithkavinda99&label=Profile%20views&color=0e75b6&style=flat" alt="sajithkavinda99" /> </p>
 
