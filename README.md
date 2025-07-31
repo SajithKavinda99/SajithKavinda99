@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Sajith Kavinda</h1>
-<h3 align="center">🎯 A Passionate Data Analyst from Sri Lanka</h3>
+<h3 align="center">🎯 A Passionate Sales and Business Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sajithkavinda99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,9 +9,12 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **Data Analytics**
+- 🌱 Currently learning **Sales and Business Development**
 - 💻 All my projects are available on [GitHub](https://github.com/SajithKavinda99)
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Sales Performance Analysis & Review
+- Performance Action Planning & Execution
+- Communication & Feedback Management
+- Ad Hoc Reporting & Business Analytics**
 - 📄 Learn more about my experiences on my [Portfolio Website](https://sajithkavinda99.github.io/sajithkavinda.github.io/)
 
 ---
