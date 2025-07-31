@@ -11,10 +11,7 @@
 
 - 🌱 Currently learning **Sales and Business Development**
 - 💻 All my projects are available on [GitHub](https://github.com/SajithKavinda99)
-- 💬 Ask me about **Sales Performance Analysis & Review
-- Performance Action Planning & Execution
-- Communication & Feedback Management
-- Ad Hoc Reporting & Business Analytics**
+- 💬 Ask me about **Sales Performance Analysis & Review/Performance Action Planning & Execution/Communication & Feedback Management/Ad Hoc Reporting & Business Analytics**
 - 📄 Learn more about my experiences on my [Portfolio Website](https://sajithkavinda99.github.io/sajithkavinda.github.io/)
 
 ---
