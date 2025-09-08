@@ -12,7 +12,6 @@
 - 🌱 Currently learning **Sales and Business Development**
 - 💻 All my projects are available on [GitHub](https://github.com/SajithKavinda99)
 - 💬 Ask me about **Sales Performance Analysis & Review/Performance Action Planning & Execution/Communication & Feedback Management/Ad Hoc Reporting & Business Analytics**
-- 📄 Learn more about my experiences on my [Portfolio Website](https://sajithkavinda99.github.io/sajithkavinda.github.io/)
 
 ---
 
@@ -22,9 +21,7 @@
   <a href="https://www.linkedin.com/in/sajith-kavinda-aa0102298" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-  <a href="https://stackoverflow.com/users/23014082/sajith-kavinda" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="30" height="30" />
-  </a>
+ 
   <a href="https://www.facebook.com/sajith.kavinda.353" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30" />
   </a>
