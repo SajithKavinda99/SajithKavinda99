@@ -12,7 +12,7 @@
 - 🌱 Currently exploring **ICT teaching, programming, and educational technology**
 - 💻 All my projects, class exercises, and teaching resources are available on [GitHub](https://github.com/SajithKavinda99)
 - 💬 I can help with:
-  - Teaching **Python, Java, and Databases**
+  - Teaching **Programming, Graphic Design and Web Divelopment**
   - Designing **ICT lessons and practical exercises**
   - Educational **analytics & student performance tracking**
   - Integrating **technology in classrooms**
