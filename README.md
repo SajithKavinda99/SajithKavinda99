@@ -12,7 +12,7 @@
 - 🌱 Currently exploring **ICT teaching, programming, and educational technology**
 - 💻 All my projects, class exercises, and teaching resources are available on [GitHub](https://github.com/SajithKavinda99)
 - 💬 I can help with:
-  - Teaching **Programming, Graphic Design and Web Divelopment**
+  - Teaching **Python, Java, and Databases**
   - Designing **ICT lessons and practical exercises**
   - Educational **analytics & student performance tracking**
   - Integrating **technology in classrooms**
@@ -35,8 +35,8 @@
 ### 🧰 Tools & Technologies
 
 <p align="left">
-  <a href="https://www.Scratch.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Scratch" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
