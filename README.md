@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi there, I'm Sajith Kavinda</h1>
-<h3 align="center">🎯 A Passionate Sales and Business Development</h3>
+<h1 align="center">👋 Hi, I'm Sajith Kavinda</h1>
+<h3 align="center">💻 ICT Teacher | Passionate About Technology & Education</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sajithkavinda99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,9 +9,13 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **Sales and Business Development**
-- 💻 All my projects are available on [GitHub](https://github.com/SajithKavinda99)
-- 💬 Ask me about **Sales Performance Analysis & Review/Performance Action Planning & Execution/Communication & Feedback Management/Ad Hoc Reporting & Business Analytics**
+- 🌱 Currently exploring **ICT teaching, programming, and educational technology**
+- 💻 All my projects, class exercises, and teaching resources are available on [GitHub](https://github.com/SajithKavinda99)
+- 💬 I can help with:
+  - Teaching **Python, Java, and Databases**
+  - Designing **ICT lessons and practical exercises**
+  - Educational **analytics & student performance tracking**
+  - Integrating **technology in classrooms**
 
 ---
 
@@ -21,7 +25,6 @@
   <a href="https://www.linkedin.com/in/sajith-kavinda-aa0102298" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
   </a>
- 
   <a href="https://www.facebook.com/sajith.kavinda.353" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30" />
   </a>
@@ -54,10 +57,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sajithkavinda99&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sajithkavinda99&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -75,13 +78,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajithkavinda99&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-<!-- Optional: GitHub activity graph -->
-<!--
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sajithkavinda99&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
--->
-
