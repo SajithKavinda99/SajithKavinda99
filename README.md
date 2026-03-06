@@ -22,7 +22,7 @@ I am a dedicated **ICT Teacher** on a mission to bridge the gap between complex 
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Programming** | Python, Java, C#, Basic HTML/CSS |
+| **Programming** | Python, Java, React, Basic HTML/CSS |
 | **Databases** | MySQL, MS SQL Server, Firebase |
 | **Teaching Tools** | Google Classroom, MS Teams, Canva, Interactive Whiteboards |
 | **Version Control** | Git, GitHub (Teaching students collaborative coding) |
