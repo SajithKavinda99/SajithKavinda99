@@ -1,74 +1,68 @@
-<h1 align="center">👋 Hi, I'm Sajith Kavinda</h1>
-<h3 align="center">💻 ICT Teacher | Passionate About Technology & Education</h3>
+<h1 align="center">👋 Ayubowan! I'm Sajith Kavinda</h1>
+<h3 align="center">👨‍🏫 ICT Educator | Tech Enthusiast | Curriculum Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajithkavinda99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sajithkavinda99&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 📖 About Me
 
-- 🌱 Currently exploring **ICT teaching, programming, and educational technology**
-- 💻 All my projects, class exercises, and teaching resources are available on [GitHub](https://github.com/SajithKavinda99)
-- 💬 I can help with:
-  - Teaching **Python, Java, and Databases**
-  - Designing **ICT lessons and practical exercises**
-  - Educational **analytics & student performance tracking**
-  - Integrating **technology in classrooms**
+I am a dedicated **ICT Teacher** on a mission to bridge the gap between complex technology and classroom learning. I focus on making programming and computer science intuitive and engaging for students.
+
+- 🏫 **Focus:** Empowering the next generation through ICT & Digital Literacy.
+- 🌱 **Learning:** Currently exploring advanced **Educational Analytics** and **AI in Education**.
+- 📚 **Resources:** I share my lesson plans, practical code examples, and student projects right here on GitHub.
+- 💡 **Philosophy:** "Code is the new literacy."
 
 ---
 
-### 📫 Connect with Me
+### 🛠️ Professional Skillset
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Programming** | Python, Java, C#, Basic HTML/CSS |
+| **Databases** | MySQL, MS SQL Server, Firebase |
+| **Teaching Tools** | Google Classroom, MS Teams, Canva, Interactive Whiteboards |
+| **Version Control** | Git, GitHub (Teaching students collaborative coding) |
+| **Data Analytics** | Student Performance Tracking using Excel & Python |
+
+---
+
+### 🚀 Teaching Portfolio & Contributions
+
+- 🐍 **Python for Beginners:** A collection of simple scripts to teach logic.
+- ☕ **Java Basics:** Structural programming concepts for advanced students.
+- 🗄️ **Database Design:** Real-world ER diagrams and SQL query exercises.
+- 📊 **EdTech Tools:** Automating marksheet generation and attendance tracking.
+
+---
+
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sajith-kavinda-aa0102298" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/sajith.kavinda.353" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🧰 Tools & Technologies
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 🏆 GitHub Highlights
+### 📊 My GitHub Journey
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sajithkavinda99&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajithkavinda99&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajithkavinda99&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -78,3 +72,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajithkavinda99&theme=radical" alt="GitHub Streak" />
 </p>
+
+<hr>
+<p align="center"><i>"Teaching is the highest form of understanding."</i></p>
