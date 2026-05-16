@@ -18,15 +18,15 @@ I am a dedicated **ICT Teacher** on a mission to bridge the gap between complex 
 
 ---
 
-### 🛠️ Professional Skillset
+### 🛠️ Professional Skillset & Curriculum Focus
 
-| Category | Skills & Tools |
+| Category | Modules & Technologies Covered |
 | :--- | :--- |
-| **Programming** | Python, Java, React, Basic HTML/CSS |
-| **Databases** | MySQL, MS SQL Server, Firebase |
-| **Teaching Tools** | Google Classroom, MS Teams, Canva, Interactive Whiteboards |
-| **Version Control** | Git, GitHub (Teaching students collaborative coding) |
-| **Data Analytics** | Student Performance Tracking using Excel & Python |
+| **Foundations & Office** | Introduction to ICT with Windows <br>• Office Functions using Microsoft Office <br>• Computer Hardware |
+| **Networking & Web** | Network Essentials <br>• Internet and E-Mail <br>• Web Design and Development |
+| **Design & Multimedia** | Graphics Design and Multimedia |
+| **Software & Programming** | Software Engineering <br>• Introduction to Programming with Java <br>• Python Language |
+| **Teaching & EdTech Tools**| Google Classroom, MS Teams, Canva, Interactive Whiteboards |
 
 ---
 
