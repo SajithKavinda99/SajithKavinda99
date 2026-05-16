@@ -1,4 +1,4 @@
-<h1 align="center">👋 Ayubowan! I'm Kavinda Kalansooriya</h1>
+<h1 align="center">👋 Ayubowan! I'm Sajith K Kalansooriya</h1>
 <h3 align="center">👨‍🏫 ICT Educator | Tech Enthusiast | Curriculum Developer</h3>
 
 <p align="center">
