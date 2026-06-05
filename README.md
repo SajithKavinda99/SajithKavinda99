@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-ICT%20Educator-0e75b6?style=for-the-badge&logo=google-classroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20EdTech-ff9900?style=for-the-badge&logo=probot&logoColor=white" />
+</div>
+
 <h1 align="center">👋 Ayubowan! I'm Sajith K Kalansooriya</h1>
 <h3 align="center">👨‍🏫 ICT Educator | Tech Enthusiast | Curriculum Developer</h3>
 
@@ -7,30 +12,42 @@
 
 ---
 
-### 📖 About Me
+## 👨‍🏫 About Me
 
-I am a dedicated **ICT Teacher** on a mission to bridge the gap between complex technology and classroom learning. I focus on making programming and computer science intuitive and engaging for students.
-
-- 🏫 **Focus:** Empowering the next generation through ICT & Digital Literacy.
-- 🌱 **Learning:** Currently exploring advanced **Educational Analytics** and **AI in Education**.
-- 📚 **Resources:** I share my lesson plans, practical code examples, and student projects right here on GitHub.
-- 💡 **Philosophy:** "Code is the new literacy."
+<table>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <!-- මෙමගින් Teacher කෙනෙක්ව නිරූපණය කරන ලස්සන Graphic එකක් පෙන්වයි -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszd3M0cDdndmNzd295YTI0Z3p5b3hoYnd0bTQ3Yms0Ym95anZpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220px" alt="Teacher Animation"/>
+      <br><br>
+      <b>"Code is the new literacy."</b>
+    </td>
+    <td width="60%" valign="top">
+      <p>I am a dedicated <b>ICT Teacher</b> on a mission to bridge the gap between complex technology and classroom learning. I focus on making programming and computer science intuitive and engaging for students.</p>
+      <ul>
+        <li>🏫 <b>Focus:</b> Empowering the next generation through ICT & Digital Literacy.</li>
+        <li>🌱 <b>Learning:</b> Currently exploring advanced <b>Educational Analytics</b> and <b>AI in Education</b>.</li>
+        <li>📚 <b>Resources:</b> I share my lesson plans, practical code examples, and student projects right here on GitHub.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Professional Skillset & Curriculum Focus
+## 🛠️ Professional Skillset & Curriculum Focus
 
 | Category | Modules & Technologies Covered |
 | :--- | :--- |
-| **Foundations & Office** | Introduction to ICT with Windows <br>• Office Functions using Microsoft Office <br>• Computer Hardware |
-| **Networking & Web** | Network Essentials <br>• Internet and E-Mail <br>• Web Design and Development |
-| **Design & Multimedia** | Graphics Design and Multimedia |
-| **Software & Programming** | Software Engineering <br>• Introduction to Programming with Java <br>• Python Language |
-| **Teaching & EdTech Tools**| Google Classroom, MS Teams, Canva, Interactive Whiteboards |
+| **💻 Foundations & Office** | Introduction to ICT with Windows <br>• Office Functions using Microsoft Office <br>• Computer Hardware |
+| **🌐 Networking & Web** | Network Essentials <br>• Internet and E-Mail <br>• Web Design and Development |
+| **🎨 Design & Multimedia** | Graphics Design and Multimedia |
+| **🚀 Software & Programming** | Software Engineering <br>• Introduction to Programming with Java <br>• Python Language |
+| **🎓 Teaching & EdTech Tools**| Google Classroom, MS Teams, Canva, Interactive Whiteboards |
 
 ---
 
-### 🚀 Teaching Portfolio & Contributions
+## 📚 Teaching Portfolio & Contributions
 
 - 🐍 **Python for Beginners:** A collection of simple scripts to teach logic.
 - ☕ **Java Basics:** Structural programming concepts for advanced students.
@@ -39,7 +56,7 @@ I am a dedicated **ICT Teacher** on a mission to bridge the gap between complex 
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sajith-kavinda-aa0102298" target="_blank">
@@ -55,7 +72,7 @@ I am a dedicated **ICT Teacher** on a mission to bridge the gap between complex 
 
 ---
 
-### 📊 My GitHub Journey
+## 📊 My GitHub Journey
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sajithkavinda99&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
@@ -73,5 +90,5 @@ I am a dedicated **ICT Teacher** on a mission to bridge the gap between complex 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajithkavinda99&theme=radical" alt="GitHub Streak" />
 </p>
 
-<hr>
+---
 <p align="center"><i>"Teaching is the highest form of understanding."</i></p>
