@@ -1,4 +1,10 @@
 <div align="center">
+  <!-- Modern Animated Banner -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI0NWhmZ3A0MTFlNTR2MThidHBobW85M3p6bWNuYm15Zms0Y29oOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nruE/giphy.gif" width="100%" alt="Tech Education Banner"/>
+  
+  <br><br>
+
+  <!-- Badges -->
   <img src="https://img.shields.io/badge/Role-ICT%20Educator-0e75b6?style=for-the-badge&logo=google-classroom&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20EdTech-ff9900?style=for-the-badge&logo=probot&logoColor=white" />
 </div>
@@ -17,7 +23,7 @@
 <table>
   <tr>
     <td width="40%" align="center" valign="middle">
-      <!-- මෙමගින් Teacher කෙනෙක්ව නිරූපණය කරන ලස්සන Graphic එකක් පෙන්වයි -->
+      <!-- Modern Coding/Tech Animation -->
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmszd3M0cDdndmNzd295YTI0Z3p5b3hoYnd0bTQ3Yms0Ym95anZpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220px" alt="Teacher Animation"/>
       <br><br>
       <b>"Code is the new literacy."</b>
